@@ -1,0 +1,40 @@
+body
+{
+    background: cornflowerblue;
+}
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#player1_name_input
+{
+width: 500px;
+}
+#player2_name_input
+{
+width: 500px;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+.button {
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
